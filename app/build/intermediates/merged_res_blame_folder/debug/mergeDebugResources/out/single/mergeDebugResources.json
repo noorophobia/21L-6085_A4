@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_add_dialog.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\add_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_single_shopping_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\single_shopping_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_add_dialog.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\add_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_activity_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\anim_translate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a21l_6085_a4.app-debug-42:/layout-land_activity_sign_up.xml.flat",
+        "source": "com.example.a21l_6085_a4.app-main-44:/layout-land/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_single_shopping_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\single_shopping_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout-land_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout-land\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.a21l_6085_a4.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
